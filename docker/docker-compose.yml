@@ -1,0 +1,5 @@
+services:
+  web:
+    image: registry.gitlab.com/buckcherri/modul_169/meinprojekt:latest
+    ports:
+      - "80:80"
